@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
 
     companion object {
         private const val SITE_URL = "https://smj1740.github.io/dddff/"
-        private const val DOWNLOAD_HOOK_JS = """
+        private val DOWNLOAD_HOOK_JS = """
             (function() {
               if (window.__smartQrDownloadHooked) return;
               window.__smartQrDownloadHooked = true;
