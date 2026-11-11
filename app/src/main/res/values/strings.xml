@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">스마트 QR</string>
+    <string name="download_description">QR 이미지 다운로드</string>
+    <string name="download_started">다운로드를 시작했습니다</string>
+    <string name="download_saved">Downloads 폴더에 저장했습니다</string>
+    <string name="download_failed">다운로드에 실패했습니다</string>
+</resources>

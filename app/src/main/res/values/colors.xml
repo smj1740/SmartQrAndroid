@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="kmou_blue">#1C3FAA</color>
+    <color name="kmou_navy">#0B1A4A</color>
+    <color name="paper">#F4F7FC</color>
+    <color name="ic_launcher_background">#E8EEFC</color>
+    <color name="white">#FFFFFF</color>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SmartQr" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/kmou_blue</item>
+        <item name="colorPrimaryDark">@color/kmou_navy</item>
+        <item name="colorSecondary">@color/kmou_blue</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <item name="android:windowBackground">@color/paper</item>
+    </style>
+</resources>
